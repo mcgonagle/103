@@ -1,5 +1,5 @@
 :title: Spinnaker & K8s
-:author: Chris Malone
+:author: Christopher Malone
 :keywords: Spinnaker, k8s, kubernetes, helm
 :skip-help: true
 :css: presentation.css
