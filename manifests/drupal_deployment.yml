@@ -5,7 +5,7 @@ metadata:
   labels:
     run: "drupal"
   name: "drupal"
-  namespace: mcgonagle
+  namespace: gui865
 spec:
   replicas: 1
   selector:
