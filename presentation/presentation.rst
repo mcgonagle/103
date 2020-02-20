@@ -1,5 +1,5 @@
 :title: Spinnaker & K8s
-:author: Thomas A. McGonagle
+:author: Kiril Momchilov
 :keywords: Spinnaker, k8s, kubernetes, helm
 :skip-help: true
 :css: presentation.css
@@ -72,7 +72,7 @@ Agenda cont.
 
 /usr/bin/whoami
 ===============
-Thomas A. McGonagle
+Kiril Momchilov
 -------------------
 Solutions Architect
 -------------------
