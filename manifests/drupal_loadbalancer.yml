@@ -5,7 +5,7 @@ metadata:
   labels:
     run: "drupal"
   name: drupal-0
-  namespace: mcgonagle
+  namespace: gui865
 spec:
   ports:
   - port: 80
